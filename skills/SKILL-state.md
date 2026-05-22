@@ -1,3 +1,11 @@
+---
+type: skill-state
+project: kreedah-strava
+scope: sub-app
+authoritative: true
+last_edited: 260522_0021
+---
+
 # SKILL-state.md — Krīḍā · Strava · Living State
 
 > **Living half of the sub-app skill pair.** Current state of `kreedah-strava` only. Platform-level state lives in `kreedah/skills/SKILL-state.md`. **This file wins on conflicts** with `SKILL-core.md` in this directory.

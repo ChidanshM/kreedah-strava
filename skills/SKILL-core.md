@@ -1,3 +1,11 @@
+---
+type: skill-core
+project: kreedah-strava
+scope: sub-app
+authoritative: true
+last_edited: 260522_0021
+---
+
 # SKILL-core.md — Krīḍā · Strava
 
 > **Stable half of the sub-app skill pair.** Sub-app-specific conventions and principles. Platform-wide concerns (commit format, license, naming pattern, meta-repo architecture) live in the umbrella `kreedah/skills/SKILL-core.md`. Current sub-app state lives in `SKILL-state.md` in this directory. **State wins on conflicts** with either core file.
